@@ -8,7 +8,7 @@ In this part, we select a random set of cities, and use OpenWeather API to get w
 
 ## Part 2: VacationPy
 
-In this part, we use the cities data we got from Part 1 and then plot these cities on a world map, with marker size based on humidity. We used GeoView to do this. 
+In this part, we use the cities data we got from Part 1 and then plot these cities on a world map, with marker size based on humidity. We used GeoView and hvplot to do this. 
 
 Then, we select some cities based on weather conditions, which are user-defined. The conditions used for this session were:
 1. Max Temperature is between 18 and 25 degrees Celsius.
