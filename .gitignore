@@ -2,3 +2,5 @@ WeatherPy/api_keys.py
 .DS_Store
 WeatherPy/.ipynb_checkpoints/
 WeatherPy/__pycache__/
+.ipynb_checkpoints/
+WeatherPy/output_data/.ipynb_checkpoints/
